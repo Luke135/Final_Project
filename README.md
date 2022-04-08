@@ -5,7 +5,7 @@ Final Project Group 52
 - Team "insertnamehere"
 - Victor Mui  : vim43@pitt.edu
 - Luke Haidze :
-- James Karas : 
+- James Karas : jnk35@pitt.edu
 
  
 "Victor_Submetric" completed by Victor Mui and covers analysis on arrests made in Pittsburgh neighborhoods. Link to dataset of arrests made in Pittsburgh between 2016-present here:
