@@ -1,7 +1,7 @@
 # CMPINF0010 Final Project
 Using Python and Matplotlib to analyze Pittsburgh datasets including arrest, air quality, and drug-use data in order to determine the safest neighborhood in Pittsburgh. 
 
-- Final Project Group 52
+Final Project Group 52
 - Team "insertnamehere"
 - Victor Mui  : vim43@pitt.edu
 - Luke Haidze :
