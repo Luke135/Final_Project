@@ -2,10 +2,11 @@
 Using Python and Matplotlib to analyze Pittsburgh datasets including arrest, air quality, and drug-use data in order to determine the safest neighborhood in Pittsburgh. 
 
 Final Project Group 52
-- Team "insertnamehere"
+- Team ImHungry
 - Victor Mui  : vim43@pitt.edu
-- Luke Haidze :
-- James Karas : jnk35@pitt.edu
+- Luke Haidze : lch6@pitt.edu
+- James Karas : jnk3@pitt.edu
+
 
  
 "Victor_Submetric" completed by Victor Mui and covers analysis on arrests made in Pittsburgh neighborhoods. Link to dataset of arrests made in Pittsburgh between 2016-present here:
